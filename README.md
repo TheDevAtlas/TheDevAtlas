@@ -46,7 +46,4 @@ I build projects that both interest me and have some interesting real world apli
 [![Making Wii Are Resorting To Violence](https://ytcards.demolab.com/?id=BKEaG7PdiaA&title=Making+Wii+Are+Resorting+To+Violence&lang=en&timestamp=1706150533&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Making Wii Are Resorting To Violence")](https://www.youtube.com/watch?v=BKEaG7PdiaA)
 [![Making A Game In 72 Hours | Chill Thrill Post Mortem](https://ytcards.demolab.com/?id=MWpI4rseCP4&title=Making+A+Game+In+72+Hours+%7C+Chill+Thrill+Post+Mortem&lang=en&timestamp=1700257969&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Making A Game In 72 Hours | Chill Thrill Post Mortem")](https://www.youtube.com/watch?v=MWpI4rseCP4)
 <!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
 #
