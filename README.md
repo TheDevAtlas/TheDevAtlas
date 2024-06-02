@@ -39,11 +39,11 @@ I build projects that both interest me and have some interesting real world apli
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Minecraft, but I Programed an Army](https://ytcards.demolab.com/?id=UTdMsBxc3LM&title=Minecraft%2C+but+I+Programed+an+Army&lang=en&timestamp=1717354820&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Minecraft, but I Programed an Army")](https://www.youtube.com/watch?v=UTdMsBxc3LM)
 [![Wii U VR Sucks...](https://ytcards.demolab.com/?id=sKPqsVZojIs&title=Wii+U+VR+Sucks...&lang=en&timestamp=1716685895&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Wii U VR Sucks...")](https://www.youtube.com/watch?v=sKPqsVZojIs)
 [![I Made Tetris, but It Is 3D!](https://ytcards.demolab.com/?id=Zw6lD9ICB9g&title=I+Made+Tetris%2C+but+It+Is+3D%21&lang=en&timestamp=1716566406&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Made Tetris, but It Is 3D!")](https://www.youtube.com/watch?v=Zw6lD9ICB9g)
 [![Making Portal For The Wii U](https://ytcards.demolab.com/?id=GEfee-DoDiY&title=Making+Portal+For+The+Wii+U&lang=en&timestamp=1716250681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Making Portal For The Wii U")](https://www.youtube.com/watch?v=GEfee-DoDiY)
 [![Make Your Own Guitar Hero](https://ytcards.demolab.com/?id=M4wGRWnURQk&title=Make+Your+Own+Guitar+Hero&lang=en&timestamp=1715362006&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Make Your Own Guitar Hero")](https://www.youtube.com/watch?v=M4wGRWnURQk)
 [![Making My Own Guitar Hero](https://ytcards.demolab.com/?id=82LAlbSSgRY&title=Making+My+Own+Guitar+Hero&lang=en&timestamp=1715299158&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Making My Own Guitar Hero")](https://www.youtube.com/watch?v=82LAlbSSgRY)
-[![Failing To Game Jam... With Light](https://ytcards.demolab.com/?id=blfjQv55u9U&title=Failing+To+Game+Jam...+With+Light&lang=en&timestamp=1712092344&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Failing To Game Jam... With Light")](https://www.youtube.com/watch?v=blfjQv55u9U)
 <!-- END YOUTUBE-CARDS -->
 #
