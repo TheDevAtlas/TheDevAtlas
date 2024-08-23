@@ -41,11 +41,11 @@ I build projects that both interest me and have some interesting real world appl
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Day 6 - Water #skylanders](https://ytcards.demolab.com/?id=NUqfIIl7JpY&title=Day+6+-+Water+%23skylanders&lang=en&timestamp=1724385616&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Day 6 - Water #skylanders")](https://www.youtube.com/watch?v=NUqfIIl7JpY)
 [![Making Wii Sports Into A VR Game: Bowling](https://ytcards.demolab.com/?id=E3-us1g776s&title=Making+Wii+Sports+Into+A+VR+Game%3A+Bowling&lang=en&timestamp=1724370232&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Making Wii Sports Into A VR Game: Bowling")](https://www.youtube.com/watch?v=E3-us1g776s)
 [![Day 5 - Tech #skylanders](https://ytcards.demolab.com/?id=eJenf-0rrvM&title=Day+5+-+Tech+%23skylanders&lang=en&timestamp=1724299224&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Day 5 - Tech #skylanders")](https://www.youtube.com/watch?v=eJenf-0rrvM)
 [![Day 4 - Magic #skylanders](https://ytcards.demolab.com/?id=u-GWdNmqDeU&title=Day+4+-+Magic+%23skylanders&lang=en&timestamp=1724212842&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Day 4 - Magic #skylanders")](https://www.youtube.com/watch?v=u-GWdNmqDeU)
 [![Day 3 - Trigger Happy #skylanders](https://ytcards.demolab.com/?id=Hf-w3SFjmbk&title=Day+3+-+Trigger+Happy+%23skylanders&lang=en&timestamp=1724126410&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Day 3 - Trigger Happy #skylanders")](https://www.youtube.com/watch?v=Hf-w3SFjmbk)
 [![Day 2 - Gill Grunt #skylanders](https://ytcards.demolab.com/?id=d_4ChAHJL9o&title=Day+2+-+Gill+Grunt+%23skylanders&lang=en&timestamp=1724040026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Day 2 - Gill Grunt #skylanders")](https://www.youtube.com/watch?v=d_4ChAHJL9o)
-[![Day 1 - Spyro #skylanders](https://ytcards.demolab.com/?id=WvIf1spyXjk&title=Day+1+-+Spyro+%23skylanders&lang=en&timestamp=1724018071&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Day 1 - Spyro #skylanders")](https://www.youtube.com/watch?v=WvIf1spyXjk)
 <!-- END YOUTUBE-CARDS -->
 #
