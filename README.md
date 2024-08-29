@@ -41,11 +41,11 @@ I build projects that both interest me and have some interesting real world appl
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Coding a Mii Maker](https://ytcards.demolab.com/?id=mhQVoS9G04o&title=Coding+a+Mii+Maker&lang=en&timestamp=1724936817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding a Mii Maker")](https://www.youtube.com/watch?v=mhQVoS9G04o)
 [![Making My Own Mii Maker](https://ytcards.demolab.com/?id=S5a07lY1AuM&title=Making+My+Own+Mii+Maker&lang=en&timestamp=1724869137&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Making My Own Mii Maker")](https://www.youtube.com/watch?v=S5a07lY1AuM)
 [![Zelda AI Is Hard...](https://ytcards.demolab.com/?id=MobgLPKt7iQ&title=Zelda+AI+Is+Hard...&lang=en&timestamp=1724860822&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Zelda AI Is Hard...")](https://www.youtube.com/watch?v=MobgLPKt7iQ)
 [![Building A Wii U VR Headset... Again](https://ytcards.demolab.com/?id=a3HGMO-_UBE&title=Building+A+Wii+U+VR+Headset...+Again&lang=en&timestamp=1724774400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Building A Wii U VR Headset... Again")](https://www.youtube.com/watch?v=a3HGMO-_UBE)
 [![Finish Ripping Skylanders Animations - IT WORKS](https://ytcards.demolab.com/?id=z1RrArL5yG8&title=Finish+Ripping+Skylanders+Animations+-+IT+WORKS&lang=en&timestamp=1724768418&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Finish Ripping Skylanders Animations - IT WORKS")](https://www.youtube.com/watch?v=z1RrArL5yG8)
 [![From Wii Sports to VR](https://ytcards.demolab.com/?id=IauEAWm1dBU&title=From+Wii+Sports+to+VR&lang=en&timestamp=1724688016&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "From Wii Sports to VR")](https://www.youtube.com/watch?v=IauEAWm1dBU)
-[![Ripping Every Spyro's Adventure Character](https://ytcards.demolab.com/?id=hwkGvjwyy80&title=Ripping+Every+Spyro%27s+Adventure+Character&lang=en&timestamp=1724655563&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ripping Every Spyro's Adventure Character")](https://www.youtube.com/watch?v=hwkGvjwyy80)
 <!-- END YOUTUBE-CARDS -->
 #
