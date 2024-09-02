@@ -41,11 +41,11 @@ I build projects that both interest me and have some interesting real world appl
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Skylander Animation Ripping](https://ytcards.demolab.com/?id=4rwD0s7ZQsE&title=Skylander+Animation+Ripping&lang=en&timestamp=1725285236&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Skylander Animation Ripping")](https://www.youtube.com/watch?v=4rwD0s7ZQsE)
 [![Stealing Animations From Skylanders!](https://ytcards.demolab.com/?id=zrC4Q5g475M&title=Stealing+Animations+From+Skylanders%21&lang=en&timestamp=1725228839&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Stealing Animations From Skylanders!")](https://www.youtube.com/watch?v=zrC4Q5g475M)
 [![Ripping Every Skylander Model, Texture, and Animation](https://ytcards.demolab.com/?id=VAIksdf9hWY&title=Ripping+Every+Skylander+Model%2C+Texture%2C+and+Animation&lang=en&timestamp=1725157632&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ripping Every Skylander Model, Texture, and Animation")](https://www.youtube.com/watch?v=VAIksdf9hWY)
 [![Testing New Streaming Setup](https://ytcards.demolab.com/?id=GzKXZ0yE2MA&title=Testing+New+Streaming+Setup&lang=en&timestamp=1725084321&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Testing New Streaming Setup")](https://www.youtube.com/watch?v=GzKXZ0yE2MA)
 [![Skylanders Coding](https://ytcards.demolab.com/?id=QqdLAuloN_8&title=Skylanders+Coding&lang=en&timestamp=1724991962&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Skylanders Coding")](https://www.youtube.com/watch?v=QqdLAuloN_8)
 [![Making My Own Mii Maker](https://ytcards.demolab.com/?id=S5a07lY1AuM&title=Making+My+Own+Mii+Maker&lang=en&timestamp=1724869137&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Making My Own Mii Maker")](https://www.youtube.com/watch?v=S5a07lY1AuM)
-[![Zelda AI Is Hard...](https://ytcards.demolab.com/?id=MobgLPKt7iQ&title=Zelda+AI+Is+Hard...&lang=en&timestamp=1724860822&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Zelda AI Is Hard...")](https://www.youtube.com/watch?v=MobgLPKt7iQ)
 <!-- END YOUTUBE-CARDS -->
 #
