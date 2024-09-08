@@ -8,24 +8,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Allow the job to commit to the repository
     permissions:
       contents: write
+    # Run the GitHub Readme YouTube Cards action
     steps:
-      - name: Get YouTube Videos
-        uses: DenverCoder1/github-readme-youtube-cards@main
-        id: youtube_videos
+      - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UC6sX1E_gTjlp2pQfnl-tP6Q
-
-      - name: Filter Out Shorts
-        run: |
-          grep -v '"shorts":true' ${{ steps.youtube_videos.outputs.videos_json }} > filtered_videos.json
-
-      - name: Update README
-        run: |
-          cat filtered_videos.json > README.md
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "Update README with latest YouTube videos"
-          git push
