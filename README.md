@@ -1,12 +1,12 @@
-# 💿 Jacob McGowan's TheDevAtlas 💽
+👾 Jacob McGowan – TheDevAtlas
 
-**'Computer Science Student & Programming Teacher'**
+**'Game Developer | Programmer | Creator'**
 
 ---
 
 !["Banner"](/photos/banner.png)
 
-I build projects that both interest me and have some interesting real world applications... or a game jam, whichever comes first. All of my projects build on what I want to learn at home (marching cubes, compute shaders, game dev, ect.) or what I am learning at school (calculus, physics, data structures, AI, ect.) at any given time. My videos and articles that I create come from the projects that I consider my best or the ones that I learned a lot by doing. I publish these on my YouTube "[TheDevAtlas](https://www.youtube.com/@thedevatlas)" and on my website "[thedevatlas.com](https://www.thedevatlas.com/)".
+Welcome to my GitHub! I'm Jacob McGowan, also known as TheDevAtlas, a programmer and content creator who loves exploring the intersection of technology, gaming, and creativity. Here, you’ll find repositories tied to my projects and YouTube videos, where I dive into game development, video game preservation, and programming experiments. I publish these on my YouTube "[TheDevAtlas](https://www.youtube.com/@thedevatlas)" and on my website "[thedevatlas.com](https://www.thedevatlas.com/)".
 
 ---
 
