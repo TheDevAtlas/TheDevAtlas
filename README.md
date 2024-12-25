@@ -10,36 +10,6 @@ I build projects that both interest me and have some interesting real world appl
 
 ---
 
-## 💾 Languages and Tools I Use A Ton
-
-<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
-
-<br />
-
----
-
-## 🧠 Languages and Tools I Know How To Use
-
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-
-<br />
-
----
-
-### 📺 Latest YouTube Videos
-
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Making an Animation LIVE : Pokémon Animation](https://ytcards.demolab.com/?id=baa1Nz7OV0o&title=Making+an+Animation+LIVE+%3A+Pok%C3%A9mon+Animation&lang=en&timestamp=1731643383&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Making an Animation LIVE : Pokémon Animation")](https://www.youtube.com/watch?v=baa1Nz7OV0o)
 [![Blending Bulbasaur #pokemon #blender](https://ytcards.demolab.com/?id=SKvuJnksmto&title=Blending+Bulbasaur+%23pokemon+%23blender&lang=en&timestamp=1731547095&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Blending Bulbasaur #pokemon #blender")](https://www.youtube.com/watch?v=SKvuJnksmto)
@@ -48,4 +18,3 @@ I build projects that both interest me and have some interesting real world appl
 [![The Return of the King - Skylanders Coding](https://ytcards.demolab.com/?id=5VZ0YqeboXE&title=The+Return+of+the+King+-+Skylanders+Coding&lang=en&timestamp=1729971077&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Return of the King - Skylanders Coding")](https://www.youtube.com/watch?v=5VZ0YqeboXE)
 [![Should I use UNITY or GODOT for my cooking game](https://ytcards.demolab.com/?id=AqHvNAlJwFw&title=Should+I+use+UNITY+or+GODOT+for+my+cooking+game&lang=en&timestamp=1726685422&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Should I use UNITY or GODOT for my cooking game")](https://www.youtube.com/watch?v=AqHvNAlJwFw)
 <!-- END YOUTUBE-CARDS -->
-#
