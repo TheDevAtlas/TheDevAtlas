@@ -16,4 +16,6 @@ Welcome to my GitHub! I’m Jacob McGowan, also known as TheDevAtlas - a program
 
 I publish these projects on my [YouTube](https://www.youtube.com/@thedevatlas) and [Website](https://www.thedevatlas.com/), documenting my process along the way. My goal is to share knowledge, spark ideas, and inspire others to explore what’s possible when tech and creativity collide.
 
+Join my [Discord](https://discord.com/invite/BUEZUdaeWJ) with other programmers and creators!
+
 ---
