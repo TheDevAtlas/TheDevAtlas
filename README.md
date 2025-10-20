@@ -4,7 +4,7 @@
 
 ---
 
-!["Banner"](/photos/banner.png)
+!["Banner"](/photos/banner_hover.png)
 
 Welcome to my GitHub! I’m Jacob McGowan, also known as TheDevAtlas - a programmer and content creator who loves exploring the intersection of technology, gaming, and creativity. Here you’ll find repositories tied to my projects, experiments, and YouTube videos, where I dive into:
 
