@@ -1,4 +1,4 @@
-!["Banner"](/photos/banner_hover.png)
+!["Banner"](/photos/banner_hover.jpg)
 
 Jacob McGowan's The Dev Atlas
 
